@@ -16,7 +16,7 @@ This section provides the documentation for Cutter itself.
 
 ## Contributions
 
-This section details the issues we solved to contribute to Cutter
+This section details the issues we solved to contribute to Cutter.
 
 ### Issue 1
 
